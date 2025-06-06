@@ -1,0 +1,49 @@
+body {
+    background-image: url(/Projects/Images/time.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.card-title {
+    margin: 0 !important;
+}
+
+h1 {
+    font-family: fantasy;
+    padding: 1rem 0 0 0 !important;
+    margin: 0 !important;
+}
+
+.container-fluid, .card-body {
+    padding: 0 !important;
+}
+
+.rowbtn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttn {
+    border: none;
+    margin: 0.3rem !important;
+    padding: 0.5rem !important;
+    width: 10rem !important;
+    border-radius: 10px;
+    color: white;
+    font-weight: 900;
+}
+
+.add {
+    background-color: rgb(231, 155, 168) !important;
+    
+}
+
+.sub {
+    background-color: rgb(150, 76, 88) !important;
+}
+
+.reset {
+    background-color: rgb(59, 59, 59) !important;
+}

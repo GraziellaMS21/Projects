@@ -18,11 +18,13 @@
     display: none;
 }
 
+.navbar-container{
+    height: 8rem;
+}
 .title {
     font-family: 'PixelGame';
     font-size: 6rem;
     font-weight: 600;
-    margin: 0 !important;
 }
 
 .title:hover {
